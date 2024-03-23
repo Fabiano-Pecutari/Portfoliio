@@ -1,0 +1,9 @@
+header {
+text-align: center;}
+.nav {
+    background-color: lightblue;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
